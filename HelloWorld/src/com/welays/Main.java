@@ -7,3 +7,9 @@ public class Main {
         System.out.println("Hello,World!");
     }
 }
+
+//cd com/welays/
+//javac Main.java
+//cd ../..
+//java Main
+// print  Hello, World!
