@@ -4,7 +4,11 @@ public class Main {
 
     public static void main(String[] args) {
         // write your code here 编写代码
+
         System.out.println("Hello,World!");
+
+        int age = 30;
+        System.out.println(age);
     }
 }
 
